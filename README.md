@@ -1,6 +1,5 @@
 # Face-Recognition
-Face Recognition 
-
+Face Recognition \
 pip install numpy \
 pip install os\
 pip install math\
